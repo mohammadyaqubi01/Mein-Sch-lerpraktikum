@@ -24,6 +24,7 @@ const char index_html[] PROGMEM = R"rawliteral(
 </script>
 </head>
 <body>
+<h1>Hello World!</h1>
 <p>Current Time in Germany: <span id="time"></span></p>
 <script>
     updateTime(); // Initial call to display the time immediately
