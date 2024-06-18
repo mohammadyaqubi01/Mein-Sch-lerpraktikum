@@ -29,7 +29,6 @@ void loop() {
 dodot();
 dodot();
 dodot();
-dodot();
 dolang();
   //E
 dolang();
