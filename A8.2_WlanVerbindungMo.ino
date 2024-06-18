@@ -1,8 +1,8 @@
 #include <ESP8266WiFi.h>
 
 // WiFi parameters to be configured
-const char* ssid = "87654321"; // Replace with your network's SSID
-const char* password = "Mohammad2420"; // Replace with your network's password
+const char* ssid = "WlAnLAPTOP"; // Replace with your network's SSID
+const char* password = "112233445566"; // Replace with your network's password
 
 void setup() {
     Serial.begin(115200);
